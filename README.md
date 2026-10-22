@@ -15,6 +15,8 @@
 
 **Everything about GLM 5.3 abliterated and GLM 5.3 uncensored models:** what the terms mean, how to access a GLM 5.3 abliterated or uncensored model through one OpenAI- and Anthropic-compatible API, how to evaluate refusal behavior, and how to use it with Claude Code, Cursor, OpenCode and Codex.
 
+People also search for this as a **GLM 5.3 uncensored AI model**, a **GLM 5.3 abliterated model**, or a **GLM 5.3 no-refusal model**. The labels overlap; the evaluation questions are the same.
+
 [![Model](https://img.shields.io/badge/model-GLM%205.3-22c55e?style=flat)](#what-is-glm-53)
 [![Jailbreaks](https://img.shields.io/badge/jailbreaks-35-22c55e?style=flat)](#glm-53-jailbreak-collection-35-prompts)
 [![Variant](https://img.shields.io/badge/variant-abliterated%20%C2%B7%20uncensored-22c55e?style=flat)](#abliterated-vs-uncensored)
