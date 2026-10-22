@@ -1,8 +1,16 @@
 <div align="center">
 
 <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated">
-  <img src="assets/banner.gif" alt="GLM 5.3 Abliterated or Uncensored — model guide and API access via 7API" width="100%">
+  <img src="https://i.imgur.com/N5tb9s7.gif" width="600" alt="7API — one key for all frontier AI models">
 </a>
+
+<p>
+  <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated"><img src="./assets/visit-website.svg" width="208" height="74" alt="Visit website"></a>
+  <a href="https://t.me/seven_api"><img src="./assets/telegram-channel.svg" width="216" height="74" alt="Telegram Channel"></a>
+  <a href="https://t.me/hqclaudebot?start=github2"><img src="./assets/telegram-bot.svg" width="183" height="74" alt="Telegram Bot"></a>
+</p>
+
+**GLM 5.3 is one family. The same 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi — with uncensored variants where available.**
 
 # GLM 5.3 Abliterated or Uncensored — Jailbreak Prompts, Model Guide & API Access
 
@@ -32,6 +40,14 @@ The two phrases are often used as synonyms, but they are not the same thing:
 In practice, people searching for **GLM 5.3 abliterated** usually want a **GLM 5.3 uncensored model** they can run through an API. This repository covers both: the definitions, the differences, the access path through 7API, and a practical evaluation checklist.
 
 > **Honest limit:** “Abliterated” and “uncensored” describe reduced refusal behavior, not a guarantee. Results vary by model version, prompt and provider policy. See [Safety & responsible use](./docs/07-safety-and-responsible-use.md).
+
+## Not just GLM
+
+GLM 5.3 is one family in the 7API catalog — not the whole product. The same key and base URL also cover **Claude, GPT, Gemini, Grok, DeepSeek and Kimi**, including uncensored and abliterated variants where available. Use this repo for GLM 5.3; use the [uncensored AI API guide](https://github.com/7API/uncensored-ai-api) for the full model catalog and routing patterns.
+
+<a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated">
+  <img src="assets/banner.gif" width="600" alt="GLM 5.3 abliterated or uncensored — model guide and API access via 7API">
+</a>
 
 ## GLM 5.3 jailbreak collection (35 prompts)
 
