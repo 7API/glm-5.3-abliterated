@@ -6,7 +6,7 @@
 
 **Description (GitHub, ≤350 characters):**
 
-> GLM 5.3 Abliterated or Uncensored — 35 paste-ready jailbreak prompts, model guide and API access. Run GLM 5.3 abliterated or uncensored variants through one OpenAI- and Anthropic-compatible key via 7API. Pay per token.
+> GLM 5.3 Abliterated or Uncensored AI model — 35 jailbreak prompts, model guide and API. One 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi.
 
 **Website:**
 
