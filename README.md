@@ -5,9 +5,8 @@
 </a>
 
 <p>
-  <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated"><img src="./assets/visit-website.svg" width="208" height="74" alt="Visit website"></a>
+  <a href="https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated"><img src="./assets/get-api.svg" width="218" height="74" alt="Get API key"></a>
   <a href="https://t.me/seven_api"><img src="./assets/telegram-channel.svg" width="216" height="74" alt="Telegram Channel"></a>
-  <a href="https://t.me/hqclaudebot?start=github2"><img src="./assets/telegram-bot.svg" width="183" height="74" alt="Telegram Bot"></a>
 </p>
 
 **GLM 5.3 is one family. The same 7API key also covers Claude, GPT, Gemini, Grok, DeepSeek and Kimi — with uncensored variants where available.**
@@ -16,15 +15,13 @@
 
 **Everything about GLM 5.3 abliterated and GLM 5.3 uncensored models:** what the terms mean, how to access a GLM 5.3 abliterated or uncensored model through one OpenAI- and Anthropic-compatible API, how to evaluate refusal behavior, and how to use it with Claude Code, Cursor, OpenCode and Codex.
 
-[![Website](https://img.shields.io/badge/website-7api.st-22c55e?style=flat&logo=googlechrome&logoColor=white)](https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated)
-[![Telegram](https://img.shields.io/badge/Telegram-@seven__api-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/seven_api)
 [![Model](https://img.shields.io/badge/model-GLM%205.3-22c55e?style=flat)](#what-is-glm-53)
 [![Jailbreaks](https://img.shields.io/badge/jailbreaks-35-22c55e?style=flat)](#glm-53-jailbreak-collection-35-prompts)
 [![Variant](https://img.shields.io/badge/variant-abliterated%20%C2%B7%20uncensored-22c55e?style=flat)](#abliterated-vs-uncensored)
 [![API](https://img.shields.io/badge/API-OpenAI%20%2B%20Anthropic-0ea5e9?style=flat)](#quickstart)
 [![Billing](https://img.shields.io/badge/billing-pay%20per%20token-22c55e?style=flat)](#pricing-and-access)
 
-[**Get an API key →**](https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated) · [Quickstart](#quickstart) · [Docs](#documentation) · [FAQ](#faq)
+[**Get an API key →**](https://7api.st/?utm_source=github&utm_medium=readme&utm_campaign=glm-5.3-abliterated) · [Quickstart](#quickstart) · [Docs](#documentation) · [Telegram bot](https://t.me/hqclaudebot?start=github2)
 
 </div>
 
