@@ -1,0 +1,31 @@
+# GLM 5.3 Abliterated or Uncensored — 7API
+
+> GLM 5.3 abliterated or uncensored models: 35 paste-ready jailbreak prompts, a model guide, evaluation method and API access through 7API. OpenAI- and Anthropic-compatible, pay per token.
+
+## Primary pages
+
+- https://github.com/7API/glm-5.3-abliterated
+- https://github.com/7API/glm-5.3-abliterated/blob/main/docs/01-what-is-glm-5.3-abliterated.md
+- https://github.com/7API/glm-5.3-abliterated/blob/main/docs/02-abliterated-vs-uncensored.md
+- https://github.com/7API/glm-5.3-abliterated/blob/main/docs/03-glm-5.3-api-quickstart.md
+- https://github.com/7API/glm-5.3-abliterated/blob/main/docs/05-evaluating-glm-5.3-abliterated.md
+- https://github.com/7API/glm-5.3-abliterated/blob/main/docs/08-faq.md
+
+## Key facts
+
+- Primary keyword: GLM 5.3 abliterated or uncensored.
+- Covers: GLM 5.3 abliterated model, GLM 5.3 uncensored model, GLM 5.3 jailbreak prompts, GLM 5.3 API.
+- The jailbreak collection contains 35 paste-ready prompts; the prompt files are shared with the AI Jailbreaks repo.
+- API: OpenAI- and Anthropic-compatible; works with Claude Code, Cursor, OpenCode and Codex CLI.
+- Billing: pay per token, no subscription; crypto top-ups.
+- Model IDs and variant availability are listed in the 7API dashboard.
+- Abliteration reduces refusals; it does not guarantee refusal-free output.
+
+## Companion
+
+- https://github.com/7API/uncensored-ai-api
+- https://github.com/7API/ai-jailbreaks
+
+## Website
+
+- https://7api.st
